@@ -28,12 +28,16 @@ After the third contributor captions the meme and finished buying their shares, 
 Purchase memes here: https://wememe.world/buy
 
 ## Business Model
-We collect 3% of the sale price for creating and maintaining the platform. (We have day jobs too!)
+We collect a 3% fee from the sale price for creating and maintaining the platform.
 
 ## Who is it for?
-
+WeMeme is an inclusive, collaborative platform that invites all curious creators to #buidl memes together. However at this time to use WeMeme you need a web3-enabled browser and Ether.
 
 ## Project Goals
+* Create a user-friendly bonding curve implementation
+* Create a project that unites the Ethereum community
+* Integrate 3Box Profiles and Profile Hover
+* Have fun
 
 
 ## How did we build it?
