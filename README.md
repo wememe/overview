@@ -3,7 +3,7 @@
       
 
 # WeMeme
-Learn about wememe, the collaborative meme project
+Welcome to WeMeme, a place where friends meme and earn together.
 
 ## What is WeMeme?
 WeMeme is a project where content creators share their creativity to collaboratively make memes together and earn when they are sold.
@@ -39,14 +39,24 @@ WeMeme is an inclusive, collaborative platform that invites all curious creators
 * Integrate 3Box Profiles and Profile Hover
 * Have fun
 
-
 ## How did we build it?
+We built WeMeme in 36 hours during the ETH Denver hackathon and community event largely using open source software.
 
 
 ### Open Source Web3 Libraries
 
+#### Application Base | 3Box Dapp
+We used the 3Box dapp as a starting point for our web application. We used the base application software, which included all of the required web3 handling. The 3Box Dapp codebase also provided us with image upload capability.
+
+#### ERC721 Contracts | Open Zeppelin ERC721 Contracts
+
 
 ### Open Source Javascript Libraries
 
+#### Drawing on Images | 
 
-## Built at ETHDenver
+#### Captioning Images | 
+
+
+
+Built with 💖 at ETHDenver.
