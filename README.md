@@ -1,3 +1,7 @@
+
+![WeMeme Logo](/wememelogo.png)
+      
+
 # WeMeme
 Learn about wememe, the collaborative meme project
 
