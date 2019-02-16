@@ -40,7 +40,7 @@ WeMeme is an inclusive, collaborative platform that invites all curious creators
 * Have fun
 
 ## How did we build it?
-We built WeMeme in 36 hours during the ETH Denver hackathon and community event largely using open source software.
+We built WeMeme in 36 hours during the ETH Denver hackathon and community event largely using open source software. Built with 💖 at ETHDenver.
 
 
 ### Open Source Web3 Libraries
@@ -58,5 +58,3 @@ We used the 3Box dapp as a starting point for our web application. We used the b
 #### Captioning Images | 
 
 
-
-Built with 💖 at ETHDenver.
