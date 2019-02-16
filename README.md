@@ -1,7 +1,9 @@
 # WeMeme
 Learn about wememe, the collaborative meme project
 
-## What is wememe?
+
+
+## What is WeMeme?
 WeMeme is a project where content creators share their creativity to collaboratively make memes together and earn when they are sold.
 
 ### Meme Creation
