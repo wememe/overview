@@ -10,7 +10,7 @@ Learn about wememe, the collaborative meme project
 ## What is WeMeme?
 WeMeme is a project where content creators share their creativity to collaboratively make memes together and earn when they are sold.
 
-### Meme Creation
+### How Do We Make Memes?
 Memes are made in three collaborative steps.
 1. First user uploads an image and buys shares in the meme.
 2. Second user draws on the image and buys shares in the meme.
